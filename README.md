@@ -2,7 +2,7 @@
 
 #  Windows AIO Installer
 
-Een PowerShell-script om de configuratie van Windows 11 te automatiseren. Deze tool helpt systeembeheerders en eindgebruikers om snel een nieuwe Windows-installatie op te zetten met veelgebruikte applicaties en instellingen.
+Tool op PowerShell-basis om de configuratie van Windows 11 te automatiseren. Deze tool helpt systeembeheerders en eindgebruikers om snel een nieuwe Windows-installatie op te zetten met veelgebruikte applicaties en instellingen.
 
 Gemaakt door Michael Smith.
 
